@@ -14,7 +14,7 @@ const About = () => {
                 <span className="w-8 h-[1px] bg-emerald-600"></span> 
                 პრემიუმ სტომატოლოგია
             </h3>
-            <h2 className="text-3xl md:text-7xl font-black leading-[0.85] tracking-tighter uppercase italic text-slate-900">
+            <h2 className="text-4xl md:text-7xl font-black leading-[1.1] tracking-tighter uppercase italic text-slate-900">
                 ციფრული <br /> 
                 <span className="text-emerald-500 not-italic">სიზუსტე</span>
             </h2>

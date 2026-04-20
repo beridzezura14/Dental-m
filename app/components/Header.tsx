@@ -37,7 +37,7 @@ const Header = () => {
             : "py-8 bg-transparent"
         }`}
       >
-        <div className="max-w-7xl mx-auto flex justify-between items-center">
+        <div className=" mx-auto flex justify-between items-center">
           
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">

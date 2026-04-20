@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section 
       // *** გრადიენტი: შავი -> მუქი მწვანე -> შავი ***
-      className="relative w-full h-screen bg-gradient-to-tl from-black via-[#052c1e] to-black overflow-hidden"
+      className="relative w-full h-[100dvh] lg:h-screen bg-gradient-to-tl from-black via-[#052c1e] to-black overflow-hidden"
     >
       {/* 3D სცენა */}
       {/* <ToothScene /> */}
@@ -22,7 +22,7 @@ export default function Hero() {
         
         {/* ზედა მარცხენა ბლოკი */}
         <div className="max-w-xl">
-          <h2 className="text-white text-3xl md:text-5xl lg:text-6xl 2xl:text-8xl font-extrabold leading-[0.9] tracking-tighter uppercase italic">
+          <h2 className="text-white text-4xl md:text-5xl lg:text-6xl 2xl:text-8xl font-extrabold leading-[1.2] tracking-tighter uppercase italic mt-10 lg:mt-0 l">
             იგრძენი თავი! <br /> 
             <span className="not-italic text-emerald-500">თავდაჯერებულად</span>
           </h2>
