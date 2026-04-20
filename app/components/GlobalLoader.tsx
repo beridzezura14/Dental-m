@@ -89,7 +89,7 @@ export default function GlobalLoader() {
           <div className="mt-2 flex items-center justify-center gap-2">
             <span className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-bounce"></span>
             <p className="text-slate-400 font-mono text-[10px] uppercase tracking-[0.4em]">
-              იტვირთება რესურსები
+              იტვირთება
             </p>
           </div>
         </div>

@@ -40,7 +40,7 @@ export default function Hero() {
               <p className="text-[10px] uppercase opacity-60 tracking-[0.3em] font-bold">გამოცდილი ექიმები</p>
             </div>
             <p className="text-2xl font-black tracking-tight">დრ. ნინო კაპანაძე</p>
-            <p className="text-xs opacity-80 mt-1 font-medium text-emerald-400">სტომატოლოგიური იმპლანტაციის სპეციალისტი</p>
+            <p className="text-xs opacity-80 mt-1 w-[250px] font-medium text-emerald-400">კბილების მხატვრული რესტავრაციისა და ენდოდონტიის ექსპერტი.</p>
           </div>
           
           {/* აქ შეიძლება დაემატოს სოციალური ქსელები ან სხვა პატარა ელემენტი */}
