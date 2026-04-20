@@ -36,7 +36,7 @@ const Doctors = () => {
               <span className="w-8 h-[1px] bg-emerald-600"></span> 
               გუნდი
             </h3>
-            <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tighter leading-[0.9]">
+            <h2 className="text-3xl md:text-7xl font-black uppercase tracking-tighter leading-[0.9]">
               პროფესიონალი <br /> 
               <span className="text-emerald-500 italic">ექსპერტები</span>
             </h2>

@@ -38,7 +38,7 @@ const WhyChooseUs = () => {
               <span className="w-8 h-[1px] bg-emerald-600"></span> 
               ჩვენი უპირატესობები
             </h3>
-            <h2 className="text-5xl md:text-6xl font-black uppercase tracking-tighter text-slate-900 leading-[0.9] mb-8">
+            <h2 className="text-3xl md:text-6xl font-black uppercase tracking-tighter text-slate-900 leading-[0.9] mb-8">
               რატომ ირჩევენ <br /> 
               <span className="text-emerald-500 italic">Dental M</span>-ს?
             </h2>

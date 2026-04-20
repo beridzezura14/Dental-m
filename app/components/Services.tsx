@@ -75,7 +75,7 @@ const Services = () => {
             <span className="relative w-8 h-[1px] bg-emerald-600"></span> 
             ჩვენი სერვისები
           </h3>
-          <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tighter text-slate-900 leading-[0.9]">
+          <h2 className="text-3xl md:text-7xl font-black uppercase tracking-tighter text-slate-900 leading-[0.9]">
             თანამედროვე <br /> 
             <span className="text-emerald-500 italic">სტომატოლოგია</span>
           </h2>

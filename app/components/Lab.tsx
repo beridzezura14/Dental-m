@@ -24,7 +24,7 @@ const Lab = () => {
               <span className="w-8 h-[1px] bg-emerald-600"></span> 
               Dental M Lab
             </h3>
-            <h2 className="text-5xl md:text-6xl font-black uppercase tracking-tighter text-slate-900 leading-[0.9] mb-8">
+            <h2 className="text-3xl md:text-6xl font-black uppercase tracking-tighter text-slate-900 leading-[0.9] mb-8">
               საკუთარი <br /> 
               <span className="text-emerald-500 italic">ციფრული ლაბორატორია</span>
             </h2>

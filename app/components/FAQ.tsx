@@ -44,7 +44,7 @@ const FAQ = () => {
     <section className="py-32 px-6 bg-slate-50">
       <div className="max-w-3xl mx-auto">
         <div className="text-center mb-20">
-        <h2 className="text-5xl md:text-6xl font-black uppercase tracking-tighter text-slate-900 leading-[0.9] mb-8">
+        <h2 className="text-3xl md:text-6xl font-black uppercase tracking-tighter text-slate-900 leading-[0.9] mb-8">
             ხშირად დასმული <br /> 
             <span className="text-emerald-500 italic">შეკითხვები</span>
         </h2>
